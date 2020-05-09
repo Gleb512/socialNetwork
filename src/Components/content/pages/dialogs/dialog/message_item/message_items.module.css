@@ -1,0 +1,17 @@
+
+
+.interlocutor_message{
+    background-color: rgb(212, 170, 170);
+    margin-right: 20%;
+}
+.user_message{
+    background-color: rgb(127, 153, 233);
+    margin-left: 20%;
+}
+.message{
+    margin-bottom: 1.2rem;
+    padding: 1rem 0.8rem;
+    width: auto;
+    font-size: small;
+    border-radius: 15px;
+}

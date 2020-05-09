@@ -1,0 +1,16 @@
+.formControl{
+
+}
+.formControl.error input, .formControl.error textarea{
+    border: 2px solid red !important;
+    transition: 0.3s;
+}
+.formControl.error span{
+    color: red;
+}
+.formSumaryError{
+    border: 2px solid red !important;
+    transition: 0.3s;
+    padding: 5px;
+    color: red;
+}
