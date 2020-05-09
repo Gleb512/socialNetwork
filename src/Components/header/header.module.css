@@ -1,0 +1,24 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    background-color: #074f9c;
+    padding: 0px 20px;
+}
+
+.logo {
+    color: white;
+    font-size: larger;
+    font-weight: 500;
+}
+.loginBlock{
+    float: right;
+    padding: 1rem;
+}
+.loginBlock a{
+    color: white;
+    text-decoration: none;
+}
+.loginBlockAuth{
+    text-align: center;
+}

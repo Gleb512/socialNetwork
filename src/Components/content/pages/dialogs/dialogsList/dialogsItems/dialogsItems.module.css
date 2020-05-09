@@ -1,0 +1,8 @@
+.list_item{
+    text-align: center;
+    background-color: white;
+    margin-bottom: 0.7rem;
+    width: 100%;
+    padding: 1rem 0rem;
+    border-radius: 10px;
+}

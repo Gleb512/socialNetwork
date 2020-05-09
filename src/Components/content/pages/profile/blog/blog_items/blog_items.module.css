@@ -1,0 +1,25 @@
+
+.item {
+    width: 57.5%;
+    background-color: white;
+    padding: 2rem;
+    margin: 3rem 0rem;
+    transition: 0.5s;
+}
+.item:hover {
+   box-shadow: 4px 4px 4px grey;
+}
+
+.item img {
+    width: 100%;
+}
+.item_name{
+    margin-top: 1rem;
+    font-size: larger;
+    font-weight: 600;
+    
+}
+.item_description{
+    color: grey;
+    margin-top: 1.2rem;
+}
